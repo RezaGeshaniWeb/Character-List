@@ -15,7 +15,7 @@
 
 - Created - 2025-03-25
 
-- Technologies Used - LocalStorage , React.Js
+- Technologies Used - LocalStorage , API , React.Js
 
 - Dependencies - Axios , React-Hot-Toast
 
